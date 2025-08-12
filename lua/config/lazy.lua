@@ -17,6 +17,7 @@ vim.opt.rtp:prepend(lazypath)
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.shiftwidth = 4
+vim.opt.expandtab = true
 vim.opt.swapfile = false
 vim.opt.termguicolors = true
 vim.opt.wrap = false
